@@ -2,6 +2,7 @@
     "config": {
         "cache-dir": "~/.cache/phpy",
         "scan-dirs": [
+            "./tests/mock/"
         ],
         "pip-index-url": ""
     },

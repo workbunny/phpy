@@ -1,5 +1,5 @@
 {
-    "name": "swoole/phpy",
+    "name": "workbunny/phpy",
     "type": "library",
     "keywords": [
         "php",
